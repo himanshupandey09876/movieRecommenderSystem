@@ -44,7 +44,3 @@ if st.session_state.show_image:
     st.session_state.show_image = False
     st.experimental_rerun()
 
-
-# if st.button("GIFT FOR CHHICHORE PEOPLE JUST CLICK ME"):
-#      st.header("SBKO GIRLFRIEND MILEGI IIT MEI AASHIRVAAD")
-#      st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndyLifLazHgxyVfGDD60nIu9JT02HbqSZcA&s")
